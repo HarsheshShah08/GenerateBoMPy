@@ -1,0 +1,6 @@
+,Header Material,Component Material,Qty,UOM,Source,valid_component,valid_header,valid_h_uom,valid_c_uom,discardbom,price,item_identifier
+0,403-LM-00-F,ACC-0007,1,EA,Revit,True,False,False,True,False,4.0,10.0
+1,403-LM-00-F,TIM-0027,2,EA,Both,True,False,False,True,False,4.22,11.0
+2,403-LM-00-F,ADH-0050,200,L,Both,True,False,False,True,False,10182.0,22.0
+4,403-LM-00-F_FLOOR,TIM-0028,1,EA,HSB,True,False,False,True,False,2.71,19.0
+6,403-LM-00-F,FIX-0014,5,BOX,HSB,True,False,False,True,False,1159.2,23.0
